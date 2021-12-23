@@ -12,10 +12,11 @@ BİTİRME PROJESİ</br>
 <p align="center"> 
 BLOCKCHAIN TEKNOLOJİSİ & </br>
 ETHEREUM AĞINDA SOLİDİTY PROGRAMLAMA</br></br>
-Mustafa ERDOĞAN
+Mustafa ERDOĞAN</br>
+21/11/2021
 </p>
 
-İÇİNDEKİLER
+## İÇİNDEKİLER
 
 ### 1. GİRİŞ</br>
 ### 2. TEMEL KAVRAMLAR</br>
