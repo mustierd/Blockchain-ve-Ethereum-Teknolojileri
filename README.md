@@ -343,3 +343,180 @@
 ### 8.4 Ripple Ağı 
 <p> Özellikle uluslararası para transferi işlemlerinin gerçek zamanlı biçimde yapılmasına odaklanan Ripple platformu Swift sisteminin gerçek bir rakibi olarak görülüyor. Geleneksel metotlarla yapılan sınır ötesi para transfer işlemlerinin yavaşlığına alternatif olarak geliştirilen Ripple, Bitcoin ’de kullanılan Proof of Work (PoW) mekanizması yerine kendine ait bir mutabakat protokolü kullanıyor. Xrp token ismi ile kendi kripto para birimine sahip olmasına rağmen, farklı birimlerle transfer yapılmasına da izin veren bir altyapı sunuyor. Kurumsal projelere odaklanan Ripple platformu bankalar tarafından oldukça destek görüyor.</p>
 
+## 9. ETHEREUM GİRİS
+### 9.1 Ethereum Tarihçesi 
+<p> Ethereum ilk olarak Vitalik Buterin tarafından 2013 yılının sonunda yayınlanan bir pazarlama aracı olan White Paper ile duyuruldu. Tarihler 2014 yılının Ocak ayını gösterdiğinde ise Kuzey Amerika ‘da gerçekleşen bir konferansta Vitalik tarafından Ethereum’un ne olduğu açıklandı. O zamana kadar büyür bir merakla beklenen dijital para, beklentileri karşılaşmış olacak ki kısa sürede Bitcoin ‘in rakibi olarak anılmaya başlandı.</p>
+<p> Gavin Wood, 2014 Nisan ayında Yellow Paper ile teknik özellikleri ve çeşitli dokümanları yayınladı. Herkes bu süreçte Ethereum nedir diye fazlasıyla merak etmeye başladı. Daha sonra 2015 yılında Ethereum canlıya alındı.</p>
+<p> “İnternetin enerji kaynağı” gibi iddialı bir çıkış yapan Ethereum, Bitcoin blok zinciri mantığından yola çıkılarak üretilmiştir. Kendine ait, özel bir yazılım dili kullanılmış ve işletim sistemi üzerinde merkezi olmayan yazılım protokolleri geliştirilmiştir.</p>
+<p> Ethereum, şifreleme altyapısı olarak Bitcoin ‘den daha gelişmiş olduğu iddia ediliyor. En büyük farkı ise algoritma yapısı olarak gösteriliyor. Merkeze bağlı olmayan, şifreli ve güvenli işlemleri mümkün kılan blok zinciri teknolojisi ile geliştirilmiştir. Aynı zamanda bu ağa katılan kullanıcıların, bilgisayar donanımları sayesinde yeni Ethereum üretmesi de mümkün hale getirilmiştir.</p>
+
+### 9.2 Ethereum Nedir? 
+<p> Ethereum, açık kaynaklı (open source) merkeziyetsiz bir hesaplama platformudur. Ethereum ’u bir masaüstü ya da dizüstü bilgisayar gibi düşünebilirsiniz fakat tek bir cihaz üzerinde çalışmaz. Bunun yerine, dünyanın her yerinden binlerce makinede eş zamanlı olarak çalışır ve bu da Ethereum’un bir sahibi olmadığını gösterir.</p>
+<p> Bitcoin ve diğer kripto paralar gibi Ethereum da dijital para transferi yapmanıza imkan tanır. Fakat, bundan çok daha fazlasını yapma kapasitesine sahiptir. Örneğin kendi kodunuzu yaratabilir ve diğer kullanıcıların yarattığı uygulamalarla etkileşim kurabilirsiniz. Çok esnek olduğu için her türden program Ethereum üzerinde kullanıma sunulabilir.</p>
+<p> En basit haliyle Ethereum’un arkasındaki ana fikir geliştiricilerin, merkezi bir sunucu yerine dağıtılmış bir ağ üzerinde çalışan bir kod yaratabilmesi ve u kodu kullanıma sunabilmesidir. Yani teorik olarak bu uygulamalar kapatılamaz ya da sansürlenemez.</p>	
+<p> Bitcoin Blockchain teknolojisinde dijital para (BTC) sahipliği izlemek için kullanılırken, Ethereum Blockchain dijital para (Ether) ağında merkeziyetsiz uygulamaların geliştirilmesi ve çalıştırılması odaklı kullanılır.</p>
+<p> Ethereum Blockchain de madenciler ağı beslerler ve karşılığında Ether kazanırlar. Kullanışlı bir kripto para biriminin ötesinde Ethereum, uygulama geliştiricileri tarafından ağda işlem ücretleri ve hizmetler için ödeme yapma için de kullanılır. Madencilerin ücretlerini ödemek için kullanılan blokların ikinci bir türü vardır ve buna “Gas” adı verilir.</p>
+
+•	Klasik İnternet Erişimi 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147287305-cc0c5963-2182-4a9d-b928-c7dd147b08de.png"></br> Şekil 28 - Klasik internet erişimi
+</p>
+<p> Şuan da klasik bilgisayarları düşünün. Hepimizin elinde bilgisayar veya cep telefonu var. Çok güzeller, son modeller ve dünyanın parasını veriyoruz. Bu bilgisayarlar yine son moda olan süper güçlü bulutlara bağlanıyor.</p>
+<p> Bildiğimiz gibi bulut teknolojisi sunan bazı sağlayıcılar var. (Microsoft, AWS vs.) Fakat bu bulut sistemleri aslında arka tarafta bizim en başından beri kullandığımız bilgisayarlardan oluşuyor.</p>
+<p> Ben verimi gönderdiğim zaman karşı tarafa bu bulut sistemi üzerinden günün sonunda benim verilerim bu bilgisayarlarda “tırnak içinde güvenli bir şekilde” tutuluyor (Ama ne kadar güvenli?). Yani benim verilerim başka birisinin bilgisayarında ama bu büyük bir sorun değil ama nasıl bir güvenlikle saklanıyor bunu biz bilmiyoruz.</p>
+
+•	Ethereum İnternet Erişimi 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147287383-77fd10ae-75d6-4e44-8920-02fa36e7740c.png"></br> Şekil 29 - Ethereum internet erişimi
+</p>
+<p> Etheruem da yine aynı bilgisayarı kullanıyorum fakat farklı olarak ben tek bir bilgisayara bağlanmıyorum. Benim facebook.com gibi amazon.com gibi bir adresim yok. Benim aslında bir tane networküm var. Bunu ise şöyle yapıyorum bilgisayarıma bir yazılım indiriyorum. Bu yazılım open source bir ürün. Yani siz bu kodların içinde ne olduğunu biliyorsunuz. Yazılımın içinde bir arka kapı var mı buna ayrıca “Back Door” diyoruz, başka birisi bir halt karıştırıyor mu bu gibi durumları görebiliyorsunuz. Sizin bunları görmeniz için üst düzey bir bilgiye ihtiyacınız yok çünkü bunları araştıran bin bir çeşit topluluklar bulunmaktadır. Open source yazılımların artısı burada devreye giriyor. Yani Etheruem burada şeffaflık sağlıyor.</p>
+<p> Bu yazılım şöyle çalışıyor. Yazılımı ilk çalıştırdığımız zaman network üzerindeki diğer bilgisayarları buluyor. Bulduğu bilgisayarda başka bilgisayarları bularak bu şekilde tüm ağa data aktarımı gerçekleşiyor. Bu ağ bu şekilde dünyanın dört bir yanına dağılmış oluyor. Ve ben online oluyorum.</p>
+<p> Yani şuandaki interneti nasıl kullanıyoruz? Örneğin ben Türk Telekom üzerinden internete çıkıyorum. Daha sonra facebook.com a tıklayarak Facebook’a bağlanıyorum. Etheruem da facebook.com a bağlanmak yerine başka bir bilgisayara bağlanıyorum ve bu bilgisayarlar dünyanın her yerinde.</p>
+<p> Etheruem ağında verilerimiz herkeste saklanıyor. Bilgisayarımıza bir uygulama kurduğumuz zaman bu uygulama dünyanın her yerine aynı anda kuruluyor. Ve ben bu uygulamayı çalıştırdığım zaman dünyadaki tüm bilgisayarlarda değil ama dünyadaki tüm bilgisayarların birinde çalışıyor. Ben uygulamamı kimin çalıştırdığını bilmiyorum, çalıştıran kişi de benim onu çalıştırdığımı bilmiyor. Aslında Etheruem böyle bir şey.</p>
+
+### 9.3 Ethereum 2.0 Nedir? 
+<p> Ethereum yeni finansal sistemin bel kemiği olmayı hedefliyorsa saniye başına işlem sayısı çok daha yüksek olmalıdır. Ağın dağıtılmış doğası göz önüne alındığında bu çözülmesi oldukça zor bir sorundur ve Ethereum geliştiricileri yıllardır çözüm üzerine kafa yormaktadır.</p>
+<p> Öncelikle ağı yeterli seviyede merkeziyetsiz şekilde tutmak için limitlerin uygulanması gerekir. Bir node olarak çalışmanın gereklilikleri ne kadar yüksek olursa ağ da o kadar merkezi hale gelir. Yani Ethereum’un işlem kapasitesini artırması Node’ların üzerindeki yükü de artıracağından sistemin bütünlüğüne zarar verebilir. Ethereum 2.0 ile ağın hızı ve ölçeklenebilirliği daha üst seviyeye taşınacaktır.</p>
+<p> Ethereum’a ve diğer Proof of Work (PoW) kripto paralara yönelik bir diğer eleştiri de son derece yüksek seviyelerde kaynak gerektiriyor olmalarıdır. Bir bloğun Blockchain‘e başarıyla eklenebilmesi için madencilik kullanılır. Fakat bloğun bu şekilde yaratılması için çok fazla elektrik tüketen hesaplamaların hızla yapılması gerekir.</p>
+<p> Yukarıdaki bahsettiğimiz eksiklere yönelik genel olarak Ethereum 2.0 olarak bilinen bir grup önemli yükseltme önerilmiştir. Tam olarak uygulamaya konduğunda ETH 2.0 ile enerji tasarrufu, ağın performansını büyük oranda yükseltilmesi hedefleniyor.</p>
+
+### 9.3.1 ETH 2.0 Staking Nedir? 
+<p> Ethereum 2.0 ile gelecek en büyük yenilik, Proof of Work (İş İspatı) konsensüs algoritmasıyla çalışan ağın, Proof of Stake (Hisse İspatı) algoritmasına geçmesi olacaktır.</p>
+•	Stake Etmek (Staking): Ağ katılımcısının sahip olduğu kripto parayı sisteme kilitlemesi karşılığında gelir elde ettiği modele denir.
+
+<p> Proof of Stake Consensus algoritmasıyla çalışan Ethereum 2.0 ağına katılmak ve blok ödülü elde etmek için Ether (ETH) kilitleme işlemine “ETH 2.0 Staking” denir.
+Ethereum tarafından yapılan resmi açıklamada, sisteme en az 32 ETH kilitleyen her kullanıcı Ethereum 2.0 ağında onaylayıcı (validator) olabileceğini açıkladı.</p>
+
+### 9.4 Ethereum Sanal Makinesi (EVM)
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147287832-1e9edee8-bee4-4b97-aa8c-e2d93b9628bf.png"></br> Şekil 30 - Ethereum Sanal Makinesinin Görevi
+</p>
+<p> Ethereum’un oluşumundan önce, Blockchain uygulamaları çok sınırlı bir operasyonu dizayn etmek için tasarlandı. Örneğin Bitcoin ve diğer kripto para birimleri sadece eşler arası (P2P) olarak çalışmak üzere geliştirildi. Fakat geliştiriciler bir sorunla karşılaştı. Ya Bitcoin’in sunduğu işlevler dizisini ve diğer uygulama türlerini genişleteceklerdi ve bu çok karmaşık ve zaman alıcıydı, ya da yeni bir blok zincir uygulaması ve tamamen yeni bir platform geliştireceklerdi. Ethereum’un yaratıcısı Vitalik Buterin bu çıkmaza dikkat ederek, yeni bir yaklaşım geliştirdi. (EVM)</p>
+<p> Ethereum’un temel yeniliği olan Ethereum Sanal Makinesi (EVM), Ethereum ağı üzerinde çalışan Turing komple bir yazılımdır. Programlama dili ne olursa olsun, yeterli zaman ve bellek verilen herkesin herhangi bir programı çalıştırmasına olanak tanır. Ethereum Sanal Makinesi, blok zinciri uygulamaları oluşturma işlemini her zamankinden çok daha kolay ve verimli hale getirir.</p>
+<p> Ethereum, her yeni uygulama için tamamen orijinal bir blok zincir oluşturmak yerine, tek bir platformda binlerce farklı uygulamanın gelişimini mümkün kılar.</p>
+
+### 9.4.1 EVM Nasıl İşler?
+
+<p> Ağdaki her Ethereum düğümü kendi EVM uygulamasını çalıştırır ve aynı talimatları uygulayabilir.</p>
+<p> Ethereum ağı programlama dili olan Solidity dili ile uygulamalı bir yaklaşım edinmek isteyen deneyimli kodlayıcılar için uygun akıllı sözleşmeler yapmak için bir geçit görevi görür. EVM kodlamak oldukça karmaşık olmakla birlikte, geliştiriciler Serpent ve Solidity’de akıllı sözleşmeler yazabilme sayesinde bunu okunabilir hale getirebilirler. Ayrıca EVM, Python, Ruby, C++ ve diğer birkaç kodlama dilinde de çalışabilir.</p>
+<p> EVM, akıllı sözleşmelerin yürütülmesinde ve bakımından sorumludur. Akıllı sözleşmelerin yapıldığı yerdir. Akıllı sözleşmeleri ve algoritmayı yürüttüğü için, kullanıcıların çifte harcama yapmasını önler ve böylece işlemler yapıldıktan sonra, işlemlerin kopyaları ağdaki binlerce düğüme yayılır ve kaydedilir. Böylece çifte harcamanın esasen var olmadığından emin olur.</p>
+<p> Ayrıca DDoS saldırılarından platformu korur, güvenlik duvarlarını korur, hataları ortadan kaldırır ve güvenlik önlemlerini güçlendirir.</p>
+
+### 9.4.2 Merkezi Olmayan Uygulamalar (DApps)
+<p> Merkezi olmayan uygulamaları basitçe tanımlamak gerekirse bir blok zincir ağında ya da P2P bilgisayar ağında çalışan programlardır. Başka bir söylem ile Blockchain teknolojisinden faydalanan açık kaynaklı yazılımlar, DApps olarak bilinir.</p>
+<p> Dağılmış bir sistem üzerinde çalışan bir protokoldür. Merkezi platformların aksine yapılan işlemlerin hiç birisine üçüncü taraflar dahil olamamaktadır. Bu yüzden verilerinizi ele geçirerek ve internet üzerinden uygulamalara kimliksiz erişim sağlayarak veri sahipliği ve gizlilik sorunlarını çözer. Merkezi olmayan platformlarda bir aracı olmaması nedeniyle eşler arası (P2P) ağı olarak da adlandırılabilir.</p>
+<p> Artık DApp’ın ne olduğunu bildiğinize göre, bir DApp’ı yargılayabileceğiniz kriterlere bakalım;</p>
+1)	Açık Kaynak: Temel olarak, DApp’ler özerklik tarafından yönetilir ve tüm değişkenlere fikir birliği veya kullanıcıların çoğunluğu karar verir. Ayrıca, uygulamanın kaynak kodu herkes tarafından kullanılabilir.</br>
+2)	Merkezi olmayan: Merkezileştirmenin tehlikelerinden kaçınmak için, uygulamanın operasyonunun tüm kayıtların halka açık ve merkezi olmayan bir blok zincirinde depolanması gerekir.</br>
+3)	Teşvikler: Blok zinciri doğrulayıcılarının, onları kriptografi tokenlar ile ödüllendirerek teşvik etmesi gerekir.</br>
+4)	Algoritma: Merkezi olmayan uygulama topluluğu, temelde değerin kanıtını göstermek için bir kriptografik algoritma üzerinde anlaşmalıdır.</br>
+
+### 9.4.3 Akıllı Sözleşmeler (Smart Contract)
+<p> Akıllı kontrat yalnızca bir koddu. Kod akıllı ya da bildiğimiz şekilde bir kontrat değildir. Fakat koda belli başlı koşullar altında kendi kendini uygulamaya koyduğu için akıllı denir ve partiler arasındaki anlaşmaların yerine getirilmesini sağladığı için de bir anlamda kontrattır.</p>
+<p> Bilgisayar bilimcisi Nick Szabo bu fikri 1990’ların sonunda ortaya atmıştır. Kavramı açıklamak için bir otomat örneğini kullanmış ve otomatların modern akıllı kontratların öncülü olarak değerlendirebileceğini belirtmiştir. Otomat örneğinde uygulamakta olan basit bir kontrat söz konusudur. Kullanıcı makinaya bozuk para atar ve makine de kullanıcıya istediği ürünü verir. Bir akıllı kontrat da aynı mantığı dijital koşullarda uygular. Koda, “Bu kontrata iki Ether gönderildiğinde ‘Bitirme Projesi Ödevi’ yanıtını gönder” gibi basit bir şart girilebilir.</p>
+<p> Ethereum ’da geliştirici bu girdiyi daha sonra EVM tarafından okunabilecek şekilde kodlar. Ardından bu kodu, kontratı uygulamaya koyan özel adrese göndererek yayınlar. Bu noktada kontrat herkes tarafından kullanılabilir hale gelir. Ayrıca geliştirici kodu yazarken özel bir koşul belirmediği sürece kontrat silinemez.</p>
+<p> Artık sözleşmenin bir adresi vardır. Bu adresle etkileşim kurmak için kullanıcıların tek yapması gereken adrese 2 ETH göndermektir. Böylece kontratın kodu tetiklenir ve dünyanın herhangi bir yerinden bu ağa giriş yapan node üzerinden kodu çalıştırılır, kontratın ödemesinin yapıldığını görür ve çıktıyı kaydeder. (“Bitirme Projesi Ödevi”)</p>
+<p> Yukarıda bahsettiğimiz işlem Ethereum ile yapabileceklerin en basit örneklerinden biridir. Birçok kontratı birbirine bağlayan daha kapsamlı uygulamalar yaratılabilir.</p>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147288508-3e68aa9a-650e-40e0-8ca3-88114f988adf.png"></br> Şekil 31 - Akıllı Sözleşmelerin bileşenleri
+</p>
+Akıllı Sözleşmelerin Bileşenleri;
+
+•	Owner Address (Adres Sahibi)</br>
+<p>Bir sözleşmenin sahibi dediğimiz bir kurucusu vardır. Bizim Ethereum networküne girebilmemiz için benim bir tane kendimize ait adresimizin olması gerekiyor. Bu adres tamamen bize özel. Bir banka hesabı gibi ama kendi kişisel adresimizdir.</p>
+
+•	State (Durum)</br>
+<p>Sözleşmelerin üzerinde State diye bir kavram vardır. Nedir bu State? Örneğin benim bir akıllı sözleşmem var. Diyelim ki ben bir ev sahibiyim. Ben ev sahibi olarak yani “Owner Address” bir tane ev sözleşmesi yaratıyorum. Sözleşmemi sisteme dahil ettiğim zaman o evimin adresi ayrıca sözleşmenin adresi de olmuş oluyor. Bu evime birileri kiracı olarak giriş yaptığı zaman, sözleşmemin durumunda (State) bir değişiklik yapıyorum ve evin yeni kiracısını X kişisi olacak güncelliyorum ve o X kişisinin adresini de duruma (state) yazıyorum. Çünkü o kişinin adresi üzerinden para alış verişi yapacağız. Bu şekilde her kira ödendiğinde veya yeni kiracılar geldiğinde yeni bir state oluşur.</p>
+<p>Sadece ileriye dönük yeni State’ler oluşturuluyor. Geçmişe yönelik State’ler ise kesinlikle değiştirilemiyor. Eğer sözleşme yanlış hazırlanıp paylaşılmışsa bu sözleşme ağdan artık silemeyiz veya değiştiremeyiz. Bunu Ethereum sahibi bile değiştiremez. Fakat sözleşme içerisine belli bir koşul gerçekleşirse “Sözleşmeyi sil” fonksiyonunu ekleyerek sözleşmeyi silebiliriz.</p>
+
+•	Nonce</br>
+<p>Adres herhangi bir işlem gönderdiğinde artırılan bir tam sayıdır. Akıllı sözleşme yi deploy (dağıtmak) ettikten sonra nonce değeri “0” dır. Akıllı sözleşme ilk işlemi yaptıktan sonra değer 1’e yükselir. Yani sözleşmenin ne kadar işlem yaptığını bize yansıtır.</p>
+<p>Sözleşmede eylemleri sırayla yapılmasın sağlar. Yani ben bir adresten başka bir adrese 2 Ether gönderiyorum ve daha onaylanmadan başka bir adrese 10 Ether gönderiyorum. Bu nonce değeri sayesinde işleme ilk dahil edilen eylemi gerçekleştirir. Bir nevi eylemleri sıraya sokmayı sağlamaktadır.</p>
+•	Amount</br>
+<p> Bir kontrat kendi içinde para tutabilir. Amount, sözleşmenin üzerinde sahip olunan paranın miktarını gösterir. Yani benim 100 Ether’im var diyelim. Ben bir kontrata 50 Ether gönderebiliyorum ve o kontratta güvenli bir şekilde durabiliyor kimse o parayı çalamıyor. Tabi eğer bunun için kontratın içerisine kod yazılmazsa.</p>
+
+### 9.4.4 ERC20 – ERC721 Token Protokolleri
+•	ERC20 Protokolü</br>
+<p> Bitcoin (BTC), Cardano (ADA), Polkadot (DOT) gibi bağımsız kripto para birimlerinin kendi Blockchain ağları bulunurken, ERC-20 standardını benimseyen Token’ların kendilerine özel zincirleri yoktur; daima Ethereum Blockchain ağı üzerinden çalışırlar.</p>
+<p> ERC-20 Token’larına ait transfer işlemleri, muhasebe defteri mantığı ile tutulmaz. Bu tokenlar, Ethereum Blockchain ağı üzerinde çalışan akıllı sözleşmelerde geçerler. Yani kullanıcılar, sahip oldukları ERC-20 standardına sahip Token’ları başka bir kullanıcıya göndermek istediklerinde, bu işlem talebini içeren kod satırı, akıllı sözleşmedeki diğer işlemlerin arasına eklenir.</p>
+<p> Örneğin ERC20 protokolü ile yazılmış KSK adında bir token olsun. 1 KVK token ile başka bir 1 KVK token arasında hiçbir fark bulunmaktadır.</p>
+•	ERC721 Protokolü</br>
+<p> ERC-721, Ethereum Blockchain’i üzerinde eşsiz Token’ların nasıl yaratılacağını açıklayan bir standarttır. ERC-20 standardı ile oluşturulan Token’ların aksine ERC-721 ile oluşturulan Token’ların her biri eşsizdir.</p>
+<p> Birbirinden farklı olan bu Token’lar aynı zamanda birbiri ile aynı değere de sahip değildir. Bu token tiplerini sanat eserleri olarak değerlendirebiliriz. Hiçbir sanat eseri, tablo ya da müzik tamamen birbiri ile aynı olamayacağı gibi bu Token’lar de birbirinden farklıdır. Bu sebeple takası ve değişimi ERC-20 Token’ları gibi gerçekleşmemektedir.</p>
+
+### 9.4.5 Ethereum Hesap Türleri
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147288805-d01cc197-7abc-4670-b7d6-3f259e0e0c8b.png"></br> Şekil 32 - Ethereum Hesap Türleri-1
+</p>
+<p> Ethereum da iki tip hesap bulunmaktadır. Bitcoin de ve birçok kripto sistemlerinde ise bir tane hesap çeşidi vardır. Bu da sadece kullanıcı hesabıdır. Yani siz sistem içerisinde bir node olduğunuz zaman, cüzdan oluşturduğunuz zaman sizin için bir hesap (address) oluşturulur. Siz sadece sistem içerisinde, size benzeyen kişiler üzerinde işlemler yapabilirsiniz.</p>
+<p> Ethereum da ise bu kişilere bağımlı olan hesaplar “Externally owned accounts (Dışarıdan sahip olunan hesaplar)” olarak geçmektedir. Buna ikinci olarak Ethereum‘un getirdiği çözüm ise kontratlardır. Kontratlar da bir hesap gibi davranırlar.</p>
+<p> Bu ne anlama gelir?</p>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147288845-1acd2c43-1d2f-4880-ad7f-e7d86299c3da.png"></br> Şekil 33 - Ethereum Hesap Türleri-2
+</p>
+<p> Normalde Transaction’lar daha önce Bitcoin de gördüğümüz gibi neydi A kişisi B kişisine 10 BTC gönderebilmiştir. Burada ise bu Transaction işlemlerini biraz daha genişletebiliyoruz.</p>
+
+•	Hesaptan hesaba Transaction gönderebiliyor.</br>
+•	Hesaptan bir Kontrat adresine Transaction’u gönderebiliyor.</br>
+•	Kontratlar kendi aralarında Transaction gerçekleştirebiliyorlar.</br>
+•	Kontratlar kişilere para gönderebiliyorlar. Kontrat üzerinde birikmiş bir parayı siz bir kişiye gönderen farklı Transaction’lar yaratabiliyorsunuz.</br>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147288940-d605dea3-eba2-48f8-9cc5-6de754a5946f.png"></br> Şekil 34 - Hesaptan Hesaba Örnek
+</p>
+<p> Şekil 34’de Örnek uygulamada hesaptan hesaba Transaction bilgilerini görebiliyoruz. From: yazan yerde gönderen kişinin adresi, To yazan yerde ise gönderilen kişinin adres bilgisi yazmaktadır. Value: gönderilen (7.5) Ether bilgisini verir.</p>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147289071-e39af18e-961b-49fb-8d75-ec66cae90a2c.png"></br> Şekil 35 - Hesaptan Kontrata Örnek
+</p>
+<p>Şekil 35’de ise hesaptan kontrata Transaction işleminin örnek dokümanını görebiliyoruz.</p>
+
+### 9.4.6 MetaMask Cüzdanı Nedir?
+<p> MetaMask, Ethereum tabanlı her tür token destekleyen (örneğin ERC-20 standartlarını kullananları ya da eşsiz tokenları) açık kaynaklı bir Ethereum cüzdanıdır. Buna ek olarak, başka kişilerden token alabilir ya da dahili Coinbase ve ShapeShift entegrasyonlarıyla token satın alabilir/takas edebilirsiniz.</p>
+<p> MetaMask'ı bu kadar ilginç kılan unsur web siteleriyle ara yüz kurabilmesidir. Diğer cüzdanlarla ödeme adreslerini kopyalayıp yapıştırmanız ya da bir QR kodu farklı bir cihazda taratmanız gerekir. MetaMask uzantısıyla ise, web sitesi cüzdanınıza bir ping atar ve size işlemi kabul etme ya da etmeme seçeneği sunulur.</p>
+<p> MetaMask, standart bir kripto cüzdanı olarak hizmet edebilir ama gerçek gücü akıllı kontratlarla ve merkeziyetsiz uygulamalarla sorunsuz bir şekilde ara yüz kurabilmesidir.</p>
+
+### 9.4.7 Solidity Nedir?
+<p>Solidity, EVM üzerinde çalışan akıllı sözleşmeler tasarlamak ve sözleşmeleri geliştirmeye yönelik statik (değişkenlerin önceden belli olduğu programlama dilleri. Java, c# vs) bir yapıya sahip nesne yönelimli programlama dilidir.</p>
+<p>Çeşitli blok zinciri platformlarında kullanılır. Bu platformlardan en popülerinden birisi Ethereum blok zinciridir. Yazılış bakımından genelde JavaScript’e benzetilmektedir.</p>
+<p>Tarihçesinden kısaca bahsetmek istersek, ilk kez 2014 yılında Gavin Wood tarafından önerilmiştir. Daha sonra Ethereum projesi bünyesindeki Christian Reitwiessner yönetimindeki Solidity ekibi tarafından tarafından yönetildi.</p>
+<p>Solidity açık kaynaklı yazılım olup kaynak kodları Ethereum Solidity’nin GitHub adresinde bulunmaktadır. Solidity dokümanlarını inceleyebilirsiniz. Solidity geliştirmek için web üzerinden Remixi de veya EthFiddle platformlarından çalışabilirsiniz, onun dışında VisualCode, Atom, Intelliji gibi platformlar içinde Solidity eklentileri mevcuttur.</p>
+<p>İlerleyen bölümlerde Solidity ile daha detaylı ilerleyip projeler yazacağız.</p>
+
+### 9.4.8 Ethereum İşlem Ücreti (GAS Fee)
+<p> EVM aracılığı ile Ethereum ağında yazdığımız program kişinin yalnızca kendi kişisel bilgisayarında çalıştırılmaz, Ethereum ekosistemindeki herkesten de programı çalıştırması istenir.</p>
+<p> Bu durumda şu soru ortaya çıkar: on binlerce kişi sofistike kontratları çalıştırdığında ne olur? Eğer bir kişi kontratını aynı kodu tekrar edecek şekilde düzenlerse her bir Node 'un bunu sonsuz kez çalıştırması gerekir. Bu durum kaynaklar üzerinde büyük bir yük yaratır ve muhtemelen en nihayetinde sistem çöker.</p>
+<p> Ethereum bu riski ortadan kaldırmak için GAS kavramını ortaya sürmüştür. Arabanızın benzin olmadan çalışamaması gibi kontratlar da GAS olmadan uygulamaya konamaz. Kullanıcıların kontratları başarıyla çalıştırabilmesi için belirli bir GAS ödemesi yapması gerekir. Eğer yeteri kadar GAS yoksa, kontrat çalışmayı bırakır.</p>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147289462-899edc6b-a6b9-40bd-bf41-756766555197.png"></br> Şekil 36 - GAS Örneği -1
+</p>
+<p>Şekil 36’deki örnekte, registerToEvent() fonksiyonunda bir takım kodlar çalışmaktadır. Bu örnekteki Gas değerleri gerçeğini yansıtmamaktadır. EVM tarafından geliştirilen sistem size aslında şunu diyor; Çalıştırılmaya çalışılan bir kod içerisinde her yaptığınız bir işin bedeli vardır. Bu bedeli siz en baştan ortaya koymak zorundasınız.</p>
+<p>Bu nedir? Diyor ki bir “for” döngüsü çalıştıracaksan bana 5 TL, “if” sorgusu çalıştıracaksan 3 TL, ya da “while” çalıştıracaksan ne yapacağın belli olmaz bunun fiyatı 10 TL gibi her iş belli bir ücrete tabi tutulmuştur. Bu ücretler daha önceden belirlenmiş değerler çerçevesinde uygulanır.</p>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147289545-dab2becb-815d-470f-b4fd-cd9cb29a1ba3.png"></br> Şekil 37 - GAS Örneği -2
+</p>
+<p>Burada kırmızı alanda gördüğümüz değerler aslında siz daha Transaction yaratırken koyduğunuz paradır. Madenciler sizin bu kodunuz üzerinde çalışmaya başladığında yani kontratınızı deploy edip Etheruem ağına dağıttınız da bu Gas ücreti sizden çekilir.</p>
+
+### 9.5 Ethereum ve Bitcoin Arasındaki Farklar
+<p> Kripto para yatırımcıların en çok yatırım yaptığı ve teknolojileriyle finans dünyasını şekillendiren Bitcoin ve Ethereum arasındaki farklar nelerdir inceleyelim.</p>
+•Konsept</br>
+1)Bitcoin bir ödeme sistemi iken, Ethereum aslında bir bilgisayardır.</br>
+2)Bitcoin, taraflar arası para (BTC) transferini Blockchain üzerinden güvenli bir şekilde gerçekleşmesini sağlar. Ethereum, taraflar arası para (ETH) ve veri transferini mümkün kılarken aynı zamanda geliştirdiği akıllı kontrat teknolojisi sayesinde iki taraf arasında öncesinden belirlenmiş şartlar sağlandığında transfer yapılmasını sağlar.</br>
+3)İki kripto para arasında temek fark, Ethereum’un programlanabilir olmasıdır. Blockchain teknolojisi, üretilen paradan/bilgiden daha fazlasını gerektirir. Bitcoin’in yazılımsal tabanı değişikliklerin uygulanması için çok yavaş kalır. Birçok yatırımcı ilk kripto para birimi imajı yüzünden Bitcoin’e yönelmiştir.</br>
+•	Madencilik</br>
+1)	Bitcoin de yapıla transferler madenciler tarafından “Proof of Work” yani işlem kanıtı ile onaylanmaktadır.</br>
+2)	Ethereum da aynı yöntemi kullanmaktadır fakat uzun süredir geliştirilen Ethereum 2.0 ile “Proof of Stake” yani hisse kanıtı sistemine geçecektir. Bu sayede bir taraf elinde bulundurduğu kripto para miktarı kadar işlemi onaylayabilecektir.</br>
+
+•	Ödülleri</br>
+1)	Bitcoin her bir blok sonunda madencileri 6.25 Bitcoin ile ödüllendirir. Bu ödül her 210.000 blokta bir, yaklaşık 4 senede bir yarılanmaktadır. Bu yarılanma işlemine “Halving” denilmektedir.</br>
+2)	Ethereum da madenciler ya da Ethereum 2.0 ile işlemi onaylayanlar her blok için 3 Ether ödül alır. Bitcoin de olduğu gibi blok sonrasında ödül yarılanmaz.</br>
+
+•	Arz Miktarları</br>
+1)	Şu anda yaklaşık 18.5 Milyon adet Bitcoin dolaşımdadır. Toplam oluşturulabilecek Bitcoin miktarı ise 21 Milyon adet ile sınırlıdır.</br>
+2)	Ethereum yaklaşık 111 Milyon adeti piyasadadır. Belirlenen arz sınırı yoktur.</br>
+
+•	Transfer Ücretleri</br>
+1)	Gönderim için ödenen ücret, Bitcoin için gönderen kişinin kararına bırakılmıştır. Bir işlemin çok daha hızlı gerçekleşmesini isteyen taraf gönderim ücretini artırarak işlemi onaylayacak olan madencilerin dikkatini kolaylıkla çekebilir.</br>
+2)	Ethereum da “Gas” ücreti olarak da bilinen sabit ücretler ile gönderimler gerçekleşmektedir.</br>
+
+•	Blok Oluşturma</br>
+1)	Bitcoin de Blockchain’e bir blok eklemek 10 dakika sürmektedir.</br>
+2)	Ethereum için blok oluşturma süresi 10-15 saniye arasında gerçekleşmektedir.</br>
