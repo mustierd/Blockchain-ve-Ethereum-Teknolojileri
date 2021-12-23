@@ -17,8 +17,8 @@ Mustafa ERDOĞAN
 
 İÇİNDEKİLER
 
-1. GİRİŞ</br>
-2. TEMEL KAVRAMLAR</br>
+### 1. GİRİŞ</br>
+### 2. TEMEL KAVRAMLAR</br>
 2.1 Veri Nedir?</br>
 2.2 Veri Tabanları</br>
 2.3 Merkezi Olmayan Sistemler</br>
@@ -26,7 +26,7 @@ Mustafa ERDOĞAN
 2.5 Kriptoloji Nedir?</br>
 2.6 Peer To Peer ( Eşten Eşe - P2P ) Kavramı</br>
 2.7 Blockchain Teknolojisinin Felsefesi</br>
-3. BLOCKCHAIN’E GİRİŞ</br>
+### 3. BLOCKCHAIN’E GİRİŞ</br>
 3.1 Blockchain’in Tarihçesi</br>
 3.2 Blockchain Nedir?</br>
 3.2.1 İşlemler (Transactions)</br>
@@ -39,36 +39,36 @@ Mustafa ERDOĞAN
 3.2.5.2 Hisse Kanıtı (Proof of Stake - PoS) </br>
 3.2.6 Değişmezlik (İmmulability) </br>
 3.3 Blockchain Ağlarında Gizlilik</br>
-4. BLOCKCHAIN ÇEŞİTLERİ</br>
+### 4. BLOCKCHAIN ÇEŞİTLERİ</br>
 4.1 Genel Blockchain Ağları</br>
 4.2 Özel Blockchain Ağları</br>
 4.3 İzne Tabi Blockchain Ağları </br>
 4.4 Konsorsiyum Blockchain Ağları </br>
-5. Blokchain Mimarisi ve Çalışma Prensipleri</br>
+### 5. Blokchain Mimarisi ve Çalışma Prensipleri</br>
 5.1 Blockchain Nasıl Çalışır?</br>
 5.2 Block Yapısı</br>
 5.3 Blockchain Cüzdanları</br>
 5.4 Blockchain Madenciliği ( Mining)</br>
 5.5 Çatallaşma (Fork)</br>
 5.6 En Uzun Blockchain Kaydı</br>
-6. BLOCKCHAIN AĞLARINDA ŞİFRELEME</br>
+### 6. BLOCKCHAIN AĞLARINDA ŞİFRELEME</br>
 6.1 Güvenli Şifreleme ( Secure Hash)</br>
 6.2 Merkle Ağaç Yapısı ( Merkle Tree)</br>
 6.3 Simetrik Şifreleme ( Symmetric Encryption)</br>
 6.4 Asimetrik Şifreleme (Asymmetric Encryption)</br>
-7. BLOCKCHAIN UYGULAMALARINDA RİSKLER</br>
+### 7. BLOCKCHAIN UYGULAMALARINDA RİSKLER</br>
 7.1 Özel Anahtarların Saklanması</br>
 7.2 Enerji Tüketimi</br>
 7.3 Sınırlı Teşvik</br>
 7.4 Yazılım Hataları, Açıklar ve Siber Saldırılar</br>
 7.5 Şifreleme ve Kuantum Bilgisayarlar</br>
 7.6 Çatallaşma (Fork) Problemi</br>
-8. BLOCKCHAIN PLATFORMLARI</br>
+### 8. BLOCKCHAIN PLATFORMLARI</br>
 8.1 Bitcoin Ağı</br>
 8.2 Ethereum Ağı</br>
 8.3 HyperLedger Ağı</br>
 8.4 Ripple Ağı</br>
-9. ETHEREUM GİRİŞ</br>
+### 9. ETHEREUM GİRİŞ</br>
 9.1 Ethereum Tarihçesi</br>
 9.2 Ethereum Nedir?</br>
 9.3 Ethereum 2.0 Nedir?</br>
@@ -84,8 +84,8 @@ Mustafa ERDOĞAN
 9.4.8 Ethereum İşlem Ücreti (GAS Fee)</br>
 9.5 Ethereum ile Bitcoin Arasındaki Farklar</br>
 9.6 Ethereum, Bitcoin’e Rakip Olabilir Mi?</br>
-10. SOLIDITY GİRİŞ</br>
-
+### 10. SOLIDITY GİRİŞ</br>
+<p>İlerleyen zamanda solidity kullanımı ve akıllı kontratlar hakkında bilgileri ekleyeceğim...
 
 ## 1. GİRİŞ 
 <p> Blockchain teknolojisi paranın dijitalleşme süreciyle hayatımıza daha yoğun bir şekilde girmeye başlamıştır. Global düzeyde insanların kripto paralar hususunda farkındalık kazanmasında Bitcoin’in oldukça ayrıcalıklı bir yeri bulunmaktadır ki onun arkasında da Blockchain teknolojisi yer almaktadır.</p>
