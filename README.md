@@ -1,8 +1,97 @@
+ 		 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/82549640/147292359-46690a5b-7f0f-4095-a7d0-10bda82b7af7.png">
+</p>
+
+<p align="center"> 
+SELÇUK ÜNİVERSİTESİ</br>
+TEKNOLOJİ FAKÜLTESİ</br>
+BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ</br>
+BİTİRME PROJESİ</br>
+</p>
+<p align="center"> 
+BLOCKCHAIN TEKNOLOJİSİ & </br>
+ETHEREUM AĞINDA SOLİDİTY PROGRAMLAMA</br></br>
+Mustafa ERDOĞAN
+</p>
+
+İÇİNDEKİLER
+
+1. GİRİŞ</br>
+2. TEMEL KAVRAMLAR</br>
+2.1 Veri Nedir?</br>
+2.2 Veri Tabanları</br>
+2.3 Merkezi Olmayan Sistemler</br>
+2.4 Hash Nedir?</br>
+2.5 Kriptoloji Nedir?</br>
+2.6 Peer To Peer ( Eşten Eşe - P2P ) Kavramı</br>
+2.7 Blockchain Teknolojisinin Felsefesi</br>
+3. BLOCKCHAIN’E GİRİŞ</br>
+3.1 Blockchain’in Tarihçesi</br>
+3.2 Blockchain Nedir?</br>
+3.2.1 İşlemler (Transactions)</br>
+3.2.1.1 Dijital İmza</br>
+3.2.2 Dağıtılmış Defter Sistemi</br>
+3.2.3 Merkezi Olmayan Yapısı</br>
+3.2.4 Düğümler (Nodes)</br>
+3.2.5 Ağdaki Fikir Birliği (Consensus)</br>
+3.2.5.1 İş Kanıtı (Proof of Work - PoW) </br>
+3.2.5.2 Hisse Kanıtı (Proof of Stake - PoS) </br>
+3.2.6 Değişmezlik (İmmulability) </br>
+3.3 Blockchain Ağlarında Gizlilik</br>
+4. BLOCKCHAIN ÇEŞİTLERİ</br>
+4.1 Genel Blockchain Ağları</br>
+4.2 Özel Blockchain Ağları</br>
+4.3 İzne Tabi Blockchain Ağları </br>
+4.4 Konsorsiyum Blockchain Ağları </br>
+5. Blokchain Mimarisi ve Çalışma Prensipleri</br>
+5.1 Blockchain Nasıl Çalışır?</br>
+5.2 Block Yapısı</br>
+5.3 Blockchain Cüzdanları</br>
+5.4 Blockchain Madenciliği ( Mining)</br>
+5.5 Çatallaşma (Fork)</br>
+5.6 En Uzun Blockchain Kaydı</br>
+6. BLOCKCHAIN AĞLARINDA ŞİFRELEME</br>
+6.1 Güvenli Şifreleme ( Secure Hash)</br>
+6.2 Merkle Ağaç Yapısı ( Merkle Tree)</br>
+6.3 Simetrik Şifreleme ( Symmetric Encryption)</br>
+6.4 Asimetrik Şifreleme (Asymmetric Encryption)</br>
+7. BLOCKCHAIN UYGULAMALARINDA RİSKLER</br>
+7.1 Özel Anahtarların Saklanması</br>
+7.2 Enerji Tüketimi</br>
+7.3 Sınırlı Teşvik</br>
+7.4 Yazılım Hataları, Açıklar ve Siber Saldırılar</br>
+7.5 Şifreleme ve Kuantum Bilgisayarlar</br>
+7.6 Çatallaşma (Fork) Problemi</br>
+8. BLOCKCHAIN PLATFORMLARI</br>
+8.1 Bitcoin Ağı</br>
+8.2 Ethereum Ağı</br>
+8.3 HyperLedger Ağı</br>
+8.4 Ripple Ağı</br>
+9. ETHEREUM GİRİŞ</br>
+9.1 Ethereum Tarihçesi</br>
+9.2 Ethereum Nedir?</br>
+9.3 Ethereum 2.0 Nedir?</br>
+9.3.1 ETH 2.0 Staking Nedir?</br>
+9.4 Ethereum Sanal Makinesi (EVM) </br>
+9.4.1 EVM Nasıl İşler</br>
+9.4.2 Merkezi Olmayan Uygulamalar (DApps)</br>
+9.4.3 Akıllı Sözleşmeler </br>
+9.4.4 ERC20 – ERC721 Protokolleri</br>
+9.4.5 Ethereum Hesap Türleri</br>
+9.4.6 MetaMask Cüzdanı Nedir?</br>
+9.4.7 Solidity Nedir?</br>
+9.4.8 Ethereum İşlem Ücreti (GAS Fee)</br>
+9.5 Ethereum ile Bitcoin Arasındaki Farklar</br>
+9.6 Ethereum, Bitcoin’e Rakip Olabilir Mi?</br>
+10. SOLIDITY GİRİŞ</br>
+
 
 ## 1. GİRİŞ 
 <p> Blockchain teknolojisi paranın dijitalleşme süreciyle hayatımıza daha yoğun bir şekilde girmeye başlamıştır. Global düzeyde insanların kripto paralar hususunda farkındalık kazanmasında Bitcoin’in oldukça ayrıcalıklı bir yeri bulunmaktadır ki onun arkasında da Blockchain teknolojisi yer almaktadır.</p>
 <p> Önümüzdeki dönemde başta finans dünyası olmak üzere birçok alanda büyük yenilikler ve dönüşümler yaratması beklenen blok zinciri kavramı, 2008 yılında yayınlanan Bitcoin makalesiyle ortaya çıkmıştır. Makalenin yazarı olarak görünen Satoshi Nakamoto, 2009 yılında ilk Bitcoin yazılımını geliştirerek Bitcoin sisteminin kurulmasını sağlamıştır. Nakamoto, 2010 yılı ortalarına kadar Bitcoin ekosisteminin gelişmesini desteklemiş ve ardından projeden desteğini çekerek ortadan kaybolmuştur.</p>
 <p> Dünya çok yakın bir tarihte büyük bankaların battığı, ülkelerin finansal anlamda kötü duruma düştüğü bir kriz yaşamıştır. Küresel sistemde yaşanan son finans ve bankacılık krizlerinin toplumun güven duygusunu zedelemesi ile birlikte paranın temeli hakkında sorular gündeme gelmiştir. Bankacılık sektörüne olan güven duygusu sistemin işlemesi için gerekli olan temel yapı taşıdır. Günümüzde öznel bir değeri bulunmayan kağıt parayı kıymetli ve güvenli kılan unsur arkasındaki devlet otoritesi iken elektronik parayı güvenli kılan faktör ise finansal regülasyondur. Son yıllarda popülerliği artan kripto paraları da benzer şekilde Blockchain teknolojisi güvenli kılmaktadır.</p>
+<p> Anahtar kelimeler: Blockchain, Kriptoloji, Bitcoin, Ethereum, Akıllı kontrat (Smart Contract), Madenci, Eşten eşe(P2P), Solidity, Ethereum Sanal Makine, Hash, ERC-20, ERC-721, Merkezi olmayan uygulamalar (DApps)</p>
 
 ## 2. TEMEL KAVRAMLAR
 ### 2.1 Veri Nedir? 
