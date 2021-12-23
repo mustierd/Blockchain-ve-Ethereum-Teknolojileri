@@ -497,10 +497,12 @@ Akıllı Sözleşmelerin Bileşenleri;
 
 ### 9.5 Ethereum ve Bitcoin Arasındaki Farklar
 <p> Kripto para yatırımcıların en çok yatırım yaptığı ve teknolojileriyle finans dünyasını şekillendiren Bitcoin ve Ethereum arasındaki farklar nelerdir inceleyelim.</p>
+
 •Konsept</br>
-1)Bitcoin bir ödeme sistemi iken, Ethereum aslında bir bilgisayardır.</br>
-2)Bitcoin, taraflar arası para (BTC) transferini Blockchain üzerinden güvenli bir şekilde gerçekleşmesini sağlar. Ethereum, taraflar arası para (ETH) ve veri transferini mümkün kılarken aynı zamanda geliştirdiği akıllı kontrat teknolojisi sayesinde iki taraf arasında öncesinden belirlenmiş şartlar sağlandığında transfer yapılmasını sağlar.</br>
-3)İki kripto para arasında temek fark, Ethereum’un programlanabilir olmasıdır. Blockchain teknolojisi, üretilen paradan/bilgiden daha fazlasını gerektirir. Bitcoin’in yazılımsal tabanı değişikliklerin uygulanması için çok yavaş kalır. Birçok yatırımcı ilk kripto para birimi imajı yüzünden Bitcoin’e yönelmiştir.</br>
+1) Bitcoin bir ödeme sistemi iken, Ethereum aslında bir bilgisayardır.</br>
+2) Bitcoin, taraflar arası para (BTC) transferini Blockchain üzerinden güvenli bir şekilde gerçekleşmesini sağlar. Ethereum, taraflar arası para (ETH) ve veri transferini mümkün kılarken aynı zamanda geliştirdiği akıllı kontrat teknolojisi sayesinde iki taraf arasında öncesinden belirlenmiş şartlar sağlandığında transfer yapılmasını sağlar.</br>
+3) İki kripto para arasında temek fark, Ethereum’un programlanabilir olmasıdır. Blockchain teknolojisi, üretilen paradan/bilgiden daha fazlasını gerektirir. Bitcoin’in yazılımsal tabanı değişikliklerin uygulanması için çok yavaş kalır. Birçok yatırımcı ilk kripto para birimi imajı yüzünden Bitcoin’e yönelmiştir.</br>
+
 •	Madencilik</br>
 1)	Bitcoin de yapıla transferler madenciler tarafından “Proof of Work” yani işlem kanıtı ile onaylanmaktadır.</br>
 2)	Ethereum da aynı yöntemi kullanmaktadır fakat uzun süredir geliştirilen Ethereum 2.0 ile “Proof of Stake” yani hisse kanıtı sistemine geçecektir. Bu sayede bir taraf elinde bulundurduğu kripto para miktarı kadar işlemi onaylayabilecektir.</br>
@@ -520,3 +522,9 @@ Akıllı Sözleşmelerin Bileşenleri;
 •	Blok Oluşturma</br>
 1)	Bitcoin de Blockchain’e bir blok eklemek 10 dakika sürmektedir.</br>
 2)	Ethereum için blok oluşturma süresi 10-15 saniye arasında gerçekleşmektedir.</br>
+
+### 9.6 Ethereum, Bitcoin ’e Rakip Olabilir mi?
+
+<p> Bitcoin kripto piyasasında en çok işlem gören para birimidir. Kısa b,r süre içerisinde Ethereum’a gösterilen değerin ve ilginin artma sebebi, Bitcoin blok zincirinden daha yenilikçi olması olabilir. Bu durum Ethereum Bitcoin’e rakip olabilir mi? Sorusunu akıllara getirmiştir. Ethereum kurucusu Vitalik Buterin ise bu konuda şöyle ifadeler kullanmıştır:</p>
+<p> “Eğer kripto paralar ile dünyada bulunan değerli kaynakları karşılaştırıyorsak ve Bitcoin’i Altın, Litecoin’i Gümüş olarak kabul ediyorsak, Ethereum Petrol’dür. Çünkü Ethereum’un altında yatan teknoloji dünyanın internet sistemindeki enerji kaynağı olacaktır. Dünyada petrol nasıl birçok sektör ve teknolojide kullanılıyorsa Ethereum teknolojisi için de aynı şey geçerlidir. Bu nedenle biz Ether’i “kripto yakıt” olarak adlandırıyoruz. Ethereum platformunun ihtiyaç duyduğu enerji Ether (ETH) ile sağlanacak”.</p>
+<p> Vitalik’in açıklamalarına göre Ethereum’un Bitcoin ile rakip olmak gibi bir amacı olmadığını görmekteyiz. Ethereum kurucu ekibin Bitcoin çıktığı ilk dönemlerden itibaren Blockchain ve Bitcoin geliştiricileri arasında yer almaktadır.</p>
