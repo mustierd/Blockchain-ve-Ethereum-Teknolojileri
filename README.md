@@ -565,11 +565,35 @@ Akıllı Sözleşmelerin Bileşenleri;
 <p> MetaMask, standart bir kripto cüzdanı olarak hizmet edebilir ama gerçek gücü akıllı kontratlarla ve merkeziyetsiz uygulamalarla sorunsuz bir şekilde ara yüz kurabilmesidir.</p>
 
 ### 9.4.7 Solidity Nedir?
-<p>Solidity, EVM üzerinde çalışan akıllı sözleşmeler tasarlamak ve sözleşmeleri geliştirmeye yönelik statik (değişkenlerin önceden belli olduğu programlama dilleri. Java, c# vs) bir yapıya sahip nesne yönelimli programlama dilidir.</p>
-<p>Çeşitli blok zinciri platformlarında kullanılır. Bu platformlardan en popülerinden birisi Ethereum blok zinciridir. Yazılış bakımından genelde JavaScript’e benzetilmektedir.</p>
-<p>Tarihçesinden kısaca bahsetmek istersek, ilk kez 2014 yılında Gavin Wood tarafından önerilmiştir. Daha sonra Ethereum projesi bünyesindeki Christian Reitwiessner yönetimindeki Solidity ekibi tarafından tarafından yönetildi.</p>
-<p>Solidity açık kaynaklı yazılım olup kaynak kodları Ethereum Solidity’nin GitHub adresinde bulunmaktadır. Solidity dokümanlarını inceleyebilirsiniz. Solidity geliştirmek için web üzerinden Remixi de veya EthFiddle platformlarından çalışabilirsiniz, onun dışında VisualCode, Atom, Intelliji gibi platformlar içinde Solidity eklentileri mevcuttur.</p>
-<p>İlerleyen bölümlerde Solidity ile daha detaylı ilerleyip projeler yazacağız.</p>
+<p>Solidity, esas olarak Ethereum blok zinciri için kullanılan yüksek seviyeli nesne 
+yönelimli bir programlama dilidir. Solidity, karmaşık otomatik işlevleri etkinleştiren 
+kendi kendini yürüten kodlar olan akıllı sözleşmeler yazmak için harika bir araçtır.
+Programlama dili, yürütme kodu ve yürütme makinesi arasındaki soyutlama katmanı 
+olan Ethereum Sanal Makinesi (EVM) ile etkileşime girer. C++, Python ve JavaScript 
+dillerine benzerlik gösterir ve bu dillerden etkilenir.</p>
+<p>Solidity programlama dili doğrudan EVM tarafından derlenemediklerinden, 
+işlemci komutlarının(assembly) makine dili(hex) karşılığı olan kısacası Opcodes adı 
+verilen düşük seviyeli makine talimatlarına derlenmesi gerekir. Solidity, mevcut 
+programlama bilgisine sahip olanlar için geçiş yapmak ve kod yazmak için oldukça 
+kolay bir programlama dilidir. İlk olarak Solidity ve Polkadot kurucusu Gavin Woods 
+tarafından 2014 yılında önerilmiş olmasına rağmen, Ethereum vakfı ve Solidity proje 
+ekibi tarafından geliştirildi.</p>
+<p>Solidity programlama dili statik olarak yazılmıştır bu da programın kaynak 
+kodunu doğrulayarak tür hatalarını ve söz dimi sorunlarını engellediği anlamına gelir.
+Solidity ayrıca kalıtımı, kullanıcı tanımlı karmaşık nesneleri ve kütüphaneleri de 
+destekler. Geliştiricilerin karmaşık ve otomatikleştirilmiş finans, oyun, açık arttırmaya 
+dayalı, yönetim ve diğer uygulamaların yeni türlerini oluşturmalarına olanak 
+sağlamıştır.</p>
+<p>Herhangi bir programlama dili gibi, Solidity’in de birkaç zayıf noktası vardır. İlk 
+olarak, blok zincirinin değişmez doğası, dağıtıldıktan sonra akıllı bir sözleşmenin hiçbir 
+şekilde kaldırılmamasına veya değiştirilmemesini sağlar. Bu, her bir kod satırının 
+mükemmel olması gerektiği veya Ethereum ağı var olduğu sürece bu ağa paylaşılan 
+kodun değiştirilmemesi ve güçsüz kodlara karşı istismar edilme riski taşıdığı anlamına 
+gelir. Solidity, yeniden giriş saldırılarına ve diğer güvenlik sorunlarına karşı da 
+savunmasızdır. Ethereum ağının dağıtılmadığı bir dönemde tasarlandı. Bu nedenle 
+tasarımının günümüz gereksinimlerine ayak uydurabilmesi için güncellemeler 
+gerekmektedir.
+</p>
 
 ### 9.4.8 Ethereum İşlem Ücreti (GAS Fee)
 <p> EVM aracılığı ile Ethereum ağında yazdığımız program kişinin yalnızca kendi kişisel bilgisayarında çalıştırılmaz, Ethereum ekosistemindeki herkesten de programı çalıştırması istenir.</p>
