@@ -529,7 +529,7 @@ Akıllı Sözleşmelerin Bileşenleri;
 •	ERC20 Protokolü</br>
 <p> Bitcoin (BTC), Cardano (ADA), Polkadot (DOT) gibi bağımsız kripto para birimlerinin kendi Blockchain ağları bulunurken, ERC-20 standardını benimseyen Token’ların kendilerine özel zincirleri yoktur; daima Ethereum Blockchain ağı üzerinden çalışırlar.</p>
 <p> ERC-20 Token’larına ait transfer işlemleri, muhasebe defteri mantığı ile tutulmaz. Bu tokenlar, Ethereum Blockchain ağı üzerinde çalışan akıllı sözleşmelerde geçerler. Yani kullanıcılar, sahip oldukları ERC-20 standardına sahip Token’ları başka bir kullanıcıya göndermek istediklerinde, bu işlem talebini içeren kod satırı, akıllı sözleşmedeki diğer işlemlerin arasına eklenir.</p>
-<p> Örneğin ERC20 protokolü ile yazılmış KSK adında bir token olsun. 1 KVK token ile başka bir 1 KVK token arasında hiçbir fark bulunmaktadır.</p>
+<p> Örneğin ERC20 protokolü ile yazılmış KVK adında bir token olsun. 1 KVK token ile başka bir 1 KVK token arasında hiçbir fark bulunmaktadır.</p>
 •	ERC721 Protokolü</br>
 <p> ERC-721, Ethereum Blockchain’i üzerinde eşsiz Token’ların nasıl yaratılacağını açıklayan bir standarttır. ERC-20 standardı ile oluşturulan Token’ların aksine ERC-721 ile oluşturulan Token’ların her biri eşsizdir.</p>
 <p> Birbirinden farklı olan bu Token’lar aynı zamanda birbiri ile aynı değere de sahip değildir. Bu token tiplerini sanat eserleri olarak değerlendirebiliriz. Hiçbir sanat eseri, tablo ya da müzik tamamen birbiri ile aynı olamayacağı gibi bu Token’lar de birbirinden farklıdır. Bu sebeple takası ve değişimi ERC-20 Token’ları gibi gerçekleşmemektedir.</p>
