@@ -560,7 +560,7 @@ Akıllı Sözleşmelerin Bileşenleri;
 <p>Şekil 35’de ise hesaptan kontrata Transaction işleminin örnek dokümanını görebiliyoruz.</p>
 
 ### 9.4.6 MetaMask Cüzdanı Nedir?
-<p> MetaMask, Ethereum tabanlı her tür token destekleyen (örneğin ERC-20 standartlarını kullananları ya da eşsiz tokenları) açık kaynaklı bir Ethereum cüzdanıdır. Buna ek olarak, başka kişilerden token alabilir ya da dahili Coinbase ve ShapeShift entegrasyonlarıyla token satın alabilir/takas edebilirsiniz.</p>
+<p> MetaMask, Ethereum tabanlı her tür token destekleyen (örneğin ERC-20 standartlarını kullananları ya da eşsiz tokenları(ERC-721 vb.)) açık kaynaklı bir Ethereum cüzdanıdır. Buna ek olarak, başka kişilerden token alabilir ya da dahili Coinbase ve ShapeShift entegrasyonlarıyla token satın alabilir/takas edebilirsiniz.</p>
 <p> MetaMask'ı bu kadar ilginç kılan unsur web siteleriyle ara yüz kurabilmesidir. Diğer cüzdanlarla ödeme adreslerini kopyalayıp yapıştırmanız ya da bir QR kodu farklı bir cihazda taratmanız gerekir. MetaMask uzantısıyla ise, web sitesi cüzdanınıza bir ping atar ve size işlemi kabul etme ya da etmeme seçeneği sunulur.</p>
 <p> MetaMask, standart bir kripto cüzdanı olarak hizmet edebilir ama gerçek gücü akıllı kontratlarla ve merkeziyetsiz uygulamalarla sorunsuz bir şekilde ara yüz kurabilmesidir.</p>
 
