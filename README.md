@@ -270,8 +270,8 @@ Mustafa ERDOĞAN</br>
 <img src="https://user-images.githubusercontent.com/82549640/147284271-49c31ed3-92cc-47a5-a557-c11f9223eac8.png"></br> Şekil 15 - Blockchain Çeşitleri
 </p>
 
-### 5. BLOCKCHAIN MİMARİSİ VE ÇALIŞMA PRENSİPLERİ
-## 5.1 Blockchain Nasıl Çalışır?
+## 5. BLOCKCHAIN MİMARİSİ VE ÇALIŞMA PRENSİPLERİ
+### 5.1 Blockchain Nasıl Çalışır?
 <p> Blockchain teknolojisinin çalışma prensibinin altında yatan en önemli özellikler; anonim, dağıtık, merkezsiz ve kamusal olmasına karşın bozulamaz ve hacklenemez oluşudur.</p>
 <p> Veriler bloklar halinde saklanır. Madenci ismi verilen ağa bağlı bilgisayarlar, işleme konan verileri bir araya getirerek şifreleme standartlarına uygun biçimde arşivler ve blok halinde getirir. İşlemlerin tamamına ait veriler, özet bir fonksiyona(hash) dönüştürülür. Bitcoin ağında örnek verecek olursak, hash fonksiyon oluşturmak için SHA-256 şifreleme algoritması kullanılır.</p>
 <p> Blockchain ağına destek veren, node(düğüm) yani madenciler tarafından blokların ve şifreleme bilgilerinin kontrolü yapılır. Yeterli onay alması durumunda blok zincire eklenir. Birbirine özel şifrelerle bağlanan blokların sıralı biçimde listelenmesi sayesinde hayali bir zincir meydana gelir.</p>
