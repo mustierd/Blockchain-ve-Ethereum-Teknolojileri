@@ -347,7 +347,7 @@ Mustafa ERDOĞAN</br>
 <img src="https://user-images.githubusercontent.com/82549640/147285703-44d6da3f-943e-4e76-87de-b67b683f8171.png"></br> Şekil 21 - Soft Fork Uygulanmış Zincir 
 </p>
 
-5.6 En Uzun Blockchain Kaydı
+### 5.6 En Uzun Blockchain Kaydı
 <p> Dağıtık merkezi olmayan büyük ölçekli bir mimariyle bağlı her bir makinedeki blok yapısının her zaman tutarlı olması beklenemez. Sistem içerisinde yakın zamanlı paralel blok üretimi, blokların ağ üzerindeki makinelere farklı zamanlarda iletilmesi gibi nedenlerden dolayı ağa bağlı makineler üzerinde Blockchain ağında farklı blok sıralamasına sahip düğümlerin (node) bulunması karşılaşılan bir durumdur. Bu durumu çözebilmek için makineler her zaman “en uzun Blockchain kaydı geçerlidir” mantığı ile hareket edip, bu Blockchain kaydını genişletmek amacı ile işlem yaparlar.</p>
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/82549640/147285756-198e3c75-3957-41cb-bb42-b19e57474579.png"></br> Şekil 22 - En Uzun Zincir Seçimi
